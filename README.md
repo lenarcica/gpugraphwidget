@@ -1,15 +1,17 @@
-# WebGPU Structure Project -- testing ability to do 3D rotational graph networks in WebGPU
-#
-#  Alan Lenarcic, study project
-#
-#  glwidget/gpuwidget -- Version .01 (2025-06-23)
-#
-# Working deployment, studying features of webGPU and Anywidget and considering designs for 3D plotting and potentially OpenGPU mathematics.
-#
-# A basic 3D rotational graph in Jupyter notebook space
-#
-# Of course, one probably needs fructerman or other GL capabilities to plot this graph.
-#
+# ```gpugraphwidget```
+
+- A WebGPU Structure Project -- testing ability to do 3D rotational graph networks in WebGPU
+
+- Alan Lenarcic, study project
+
+- Version .01 (2025-06-23)
+
+ Working deployment, studying features of webGPU and Anywidget and considering designs for 3D plotting and potentially OpenGPU mathematics.
+
+ A basic 3D rotational graph in Jupyter notebook space
+
+ Of course, one probably needs fructerman or other GL capabilities to plot this graph.
+
 
 # License
  Open source Javascript (in altered form in static/altered_lib and in less altered form in static/external_lib) remains licensed according
